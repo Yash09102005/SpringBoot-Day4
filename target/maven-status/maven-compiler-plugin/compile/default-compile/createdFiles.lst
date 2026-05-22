@@ -1,0 +1,5 @@
+com\day4\App.class
+com\day4\exceptions\InvalidInputException.class
+com\day4\models\Ticket.class
+com\day4\services\TicketService.class
+com\day4\models\User.class
